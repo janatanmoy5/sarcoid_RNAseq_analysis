@@ -4,8 +4,10 @@ Sarcoidosis is a multisystem immune-responsive disease that disproportionately a
 
 Here I am presenting here to describe by following steps. 
 
-Step 1: scanpy_pbmc_for_sarcoid_step1.html. It contains samples loading, QC metrices, Doublet finding, and Harmonization.
+Step1: scanpy_pbmc_for_sarcoid_step1.html. It contains samples loading, QC metrices, Doublet finding, and Harmonization. 
 Step2: scanpy_pbmc_for_sarcoid_step2.html. It cotains clustering analysis
-
+Step3: scanpy_pbmc_for_sarcoid_step3.html. It cotains Cell cylce scoring and density distribution of all samples. 
+Step4: scanpy_pbmc_for_sarcoid_step4.html. It cotains Gene expression study, compared with Azimuth cell marker genes and Manual annotation. 
+Step5: scanpy_pbmc_for_sarcoid_step5.html. Re-clustering and gene expression study in detailed. 
 
 
